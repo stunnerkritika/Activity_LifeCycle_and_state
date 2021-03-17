@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Activities_and_Intents_DMA</string>
+    <string name="app_name">Two Activities DMA</string>
     <string name="button_main">Send</string>
     <string name="text_header">Message Received</string>
     <string name="editText_main">Enter Your Message Here</string>
