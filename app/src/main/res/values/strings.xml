@@ -1,9 +1,20 @@
 <resources>
-    <string name="app_name">Two Activities DMA</string>
-    <string name="button_main">Send</string>
-    <string name="text_header">Message Received</string>
-    <string name="editText_main">Enter Your Message Here</string>
-    <string name="button_second">Reply</string>
-    <string name="text_header_reply">Reply Received</string>
-    <string name="editText_second">Enter Your Reply Here</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <string name="space" />
+    <string name="add_item">Add Item</string>
+    <string name="eggs">Eggs</string>
+    <string name="milk">Milk</string>
+    <string name="rice">Rice</string>
+    <string name="salt">Salt</string>
+    <string name="bread">Bread</string>
+    <string name="chocolate">Choclate</string>
+    <string name="cheese">Cheese</string>
+    <string name="wheat_flour">Wheat_flour</string>
+    <string name="sugar">Sugar</string>
+    <string name="oil">Oil</string>
 </resources>
